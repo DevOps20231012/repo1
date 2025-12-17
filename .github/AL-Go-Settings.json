@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "DeployToMy-QA"{
+  "DeployToMy-QA" : {
     "EnvironmentName" : "QA",
     "continousDeployment" : true
   },
-  "DeployToPROD"{
+  "DeployToPROD" : {
     "continousDeployment" : false
   },
   "userComplierFolder" : false,
