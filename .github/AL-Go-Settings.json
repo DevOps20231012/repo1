@@ -8,7 +8,7 @@
   },
   "DeployToPROD"{
     "continousDeployment" : false
-  }
+  },
   "userComplierFolder" : false,
   "doNotPublishApps" : false
 }
