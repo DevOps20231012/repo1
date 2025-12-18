@@ -9,6 +9,6 @@
   "DeployToPROD" : {
     "continousDeployment" : false
   },
-  "userComplierFolder" : false,
+  "useComplierFolder" : false,
   "doNotPublishApps" : false
 }
